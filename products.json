@@ -4,17 +4,17 @@
     "version": "c2d4bcc1"
   },
   "products": [
-    { "id": "prod-c2d4bcc1-001", "name": "Laptop Pro 14", "category": "electronics", "price": 1200.00, "stock": 10, "rating": 4.5 },
-    { "id": "prod-c2d4bcc1-002", "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 50, "rating": 4.2 },
-    { "id": "prod-c2d4bcc1-003", "name": "Mechanical Keyboard", "category": "electronics", "price": 80.00, "stock": 30, "rating": 4.7 },
-    { "id": "prod-c2d4bcc1-004", "name": "Noise Cancelling Headphones", "category": "electronics", "price": 199.99, "stock": 20, "rating": 4.6 },
-    { "id": "prod-c2d4bcc1-005", "name": "Smartphone X", "category": "electronics", "price": 899.00, "stock": 15, "rating": 4.4 },
-    { "id": "prod-c2d4bcc1-006", "name": "Gaming Monitor", "category": "electronics", "price": 300.00, "stock": 18, "rating": 4.8 },
-    { "id": "prod-c2d4bcc1-007", "name": "Tablet S", "category": "electronics", "price": 450.00, "stock": 12, "rating": 4.5 },
+    { "id": "prod-c2d4bcc1-001", "name": "The Art of Coding", "category": "books", "price": 120.00, "stock": 100, "rating": 4.8 },
+    { "id": "prod-c2d4bcc1-002", "name": "Data Structures Deep Dive", "category": "books", "price": 250.00, "stock": 80, "rating": 4.9 },
+    { "id": "prod-c2d4bcc1-003", "name": "Modern Web Development", "category": "books", "price": 320.96, "stock": 67, "rating": 4.6 },
 
-    { "id": "prod-c2d4bcc1-008", "name": "The Art of Coding", "category": "books", "price": 120.00, "stock": 100, "rating": 4.8 },
-    { "id": "prod-c2d4bcc1-009", "name": "Data Structures Deep Dive", "category": "books", "price": 250.00, "stock": 80, "rating": 4.9 },
-    { "id": "prod-c2d4bcc1-010", "name": "Modern Web Development", "category": "books", "price": 320.96, "stock": 67, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-004", "name": "Laptop Pro 14", "category": "electronics", "price": 1200.00, "stock": 10, "rating": 4.5 },
+    { "id": "prod-c2d4bcc1-005", "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 50, "rating": 4.2 },
+    { "id": "prod-c2d4bcc1-006", "name": "Mechanical Keyboard", "category": "electronics", "price": 80.00, "stock": 30, "rating": 4.7 },
+    { "id": "prod-c2d4bcc1-007", "name": "Noise Cancelling Headphones", "category": "electronics", "price": 199.99, "stock": 20, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-008", "name": "Smartphone X", "category": "electronics", "price": 899.00, "stock": 15, "rating": 4.4 },
+    { "id": "prod-c2d4bcc1-009", "name": "Gaming Monitor", "category": "electronics", "price": 300.00, "stock": 18, "rating": 4.8 },
+    { "id": "prod-c2d4bcc1-010", "name": "Tablet S", "category": "electronics", "price": 450.00, "stock": 12, "rating": 4.5 },
 
     { "id": "prod-c2d4bcc1-011", "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 25, "rating": 4.3 },
     { "id": "prod-c2d4bcc1-012", "name": "Standing Desk", "category": "furniture", "price": 400.00, "stock": 10, "rating": 4.5 },
