@@ -28,9 +28,10 @@
     { "id": "prod-c2d4bcc1-022", "name": "Standard Item 22", "category": "home", "price": 183.01, "stock": 165, "rating": 3.6 }
   ],
   "aggregations": {
-    "books": {
-      "count": 3,
-      "inventoryValue": 68567.20
-    }
+    "books": { "count": 3, "inventoryValue": 68567.20 },
+    "electronics": { "count": 6, "inventoryValue": 191597.81 },
+    "home": { "count": 4, "inventoryValue": 129726.85 },
+    "sports": { "count": 6, "inventoryValue": 175260.86 },
+    "clothing": { "count": 3, "inventoryValue": 27571.08 }
   }
 }
