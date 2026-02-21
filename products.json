@@ -4,34 +4,34 @@
     "version": "c2d4bcc1"
   },
   "products": [
-    { "id": 1, "name": "Laptop Pro 14", "category": "electronics", "price": 1200.00, "stock": 10, "rating": 4.5 },
-    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 50, "rating": 4.2 },
-    { "id": 3, "name": "Mechanical Keyboard", "category": "electronics", "price": 80.00, "stock": 30, "rating": 4.7 },
-    { "id": 4, "name": "Noise Cancelling Headphones", "category": "electronics", "price": 199.99, "stock": 20, "rating": 4.6 },
-    { "id": 5, "name": "Smartphone X", "category": "electronics", "price": 899.00, "stock": 15, "rating": 4.4 },
+    { "id": "prod-c2d4bcc1-001", "name": "Laptop Pro 14", "category": "electronics", "price": 1200.00, "stock": 10, "rating": 4.5 },
+    { "id": "prod-c2d4bcc1-002", "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 50, "rating": 4.2 },
+    { "id": "prod-c2d4bcc1-003", "name": "Mechanical Keyboard", "category": "electronics", "price": 80.00, "stock": 30, "rating": 4.7 },
+    { "id": "prod-c2d4bcc1-004", "name": "Noise Cancelling Headphones", "category": "electronics", "price": 199.99, "stock": 20, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-005", "name": "Smartphone X", "category": "electronics", "price": 899.00, "stock": 15, "rating": 4.4 },
 
-    { "id": 6, "name": "The Art of Coding", "category": "books", "price": 120.00, "stock": 100, "rating": 4.8 },
-    { "id": 7, "name": "Data Structures Deep Dive", "category": "books", "price": 250.00, "stock": 80, "rating": 4.9 },
-    { "id": 8, "name": "Modern Web Development", "category": "books", "price": 320.00, "stock": 70, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-006", "name": "The Art of Coding", "category": "books", "price": 120.00, "stock": 100, "rating": 4.8 },
+    { "id": "prod-c2d4bcc1-007", "name": "Data Structures Deep Dive", "category": "books", "price": 250.00, "stock": 80, "rating": 4.9 },
+    { "id": "prod-c2d4bcc1-008", "name": "Modern Web Development", "category": "books", "price": 320.00, "stock": 70, "rating": 4.6 },
 
-    { "id": 9, "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 25, "rating": 4.3 },
-    { "id": 10, "name": "Standing Desk", "category": "furniture", "price": 400.00, "stock": 10, "rating": 4.5 },
-    { "id": 11, "name": "LED Desk Lamp", "category": "furniture", "price": 45.00, "stock": 60, "rating": 4.1 },
+    { "id": "prod-c2d4bcc1-009", "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 25, "rating": 4.3 },
+    { "id": "prod-c2d4bcc1-010", "name": "Standing Desk", "category": "furniture", "price": 400.00, "stock": 10, "rating": 4.5 },
+    { "id": "prod-c2d4bcc1-011", "name": "LED Desk Lamp", "category": "furniture", "price": 45.00, "stock": 60, "rating": 4.1 },
 
-    { "id": 12, "name": "Running Shoes", "category": "sports", "price": 75.00, "stock": 40, "rating": 4.4 },
-    { "id": 13, "name": "Yoga Mat", "category": "sports", "price": 20.00, "stock": 100, "rating": 4.2 },
-    { "id": 14, "name": "Fitness Tracker", "category": "sports", "price": 120.00, "stock": 35, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-012", "name": "Running Shoes", "category": "sports", "price": 75.00, "stock": 40, "rating": 4.4 },
+    { "id": "prod-c2d4bcc1-013", "name": "Yoga Mat", "category": "sports", "price": 20.00, "stock": 100, "rating": 4.2 },
+    { "id": "prod-c2d4bcc1-014", "name": "Fitness Tracker", "category": "sports", "price": 120.00, "stock": 35, "rating": 4.6 },
 
-    { "id": 15, "name": "Blender", "category": "home", "price": 60.00, "stock": 45, "rating": 4.3 },
-    { "id": 16, "name": "Air Fryer", "category": "home", "price": 110.00, "stock": 30, "rating": 4.7 },
-    { "id": 17, "name": "Coffee Maker", "category": "home", "price": 95.00, "stock": 20, "rating": 4.5 },
+    { "id": "prod-c2d4bcc1-015", "name": "Blender", "category": "home", "price": 60.00, "stock": 45, "rating": 4.3 },
+    { "id": "prod-c2d4bcc1-016", "name": "Air Fryer", "category": "home", "price": 110.00, "stock": 30, "rating": 4.7 },
+    { "id": "prod-c2d4bcc1-017", "name": "Coffee Maker", "category": "home", "price": 95.00, "stock": 20, "rating": 4.5 },
 
-    { "id": 18, "name": "Backpack", "category": "fashion", "price": 40.00, "stock": 50, "rating": 4.4 },
-    { "id": 19, "name": "Sneakers", "category": "fashion", "price": 70.00, "stock": 60, "rating": 4.6 },
-    { "id": 20, "name": "Wrist Watch", "category": "fashion", "price": 150.00, "stock": 25, "rating": 4.2 },
+    { "id": "prod-c2d4bcc1-018", "name": "Backpack", "category": "fashion", "price": 40.00, "stock": 50, "rating": 4.4 },
+    { "id": "prod-c2d4bcc1-019", "name": "Sneakers", "category": "fashion", "price": 70.00, "stock": 60, "rating": 4.6 },
+    { "id": "prod-c2d4bcc1-020", "name": "Wrist Watch", "category": "fashion", "price": 150.00, "stock": 25, "rating": 4.2 },
 
-    { "id": 21, "name": "Gaming Monitor", "category": "electronics", "price": 300.00, "stock": 18, "rating": 4.8 },
-    { "id": 22, "name": "Tablet S", "category": "electronics", "price": 450.00, "stock": 12, "rating": 4.5 }
+    { "id": "prod-c2d4bcc1-021", "name": "Gaming Monitor", "category": "electronics", "price": 300.00, "stock": 18, "rating": 4.8 },
+    { "id": "prod-c2d4bcc1-022", "name": "Tablet S", "category": "electronics", "price": 450.00, "stock": 12, "rating": 4.5 }
   ],
   "aggregations": {
     "books": {
